@@ -12,7 +12,7 @@ class Nodo:
 
         # Cargar imagen
         self.original_image = pygame.image.load(image)
-        self.original_image = pygame.transform.scale(self.original_image, self.size)
+        self.original_image = pygame.transform.smoothscale(self.original_image, self.size)
         self.image = self.original_image
         self.rect = self.image.get_rect(center=(self.x, self.y))
 

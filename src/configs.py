@@ -1,5 +1,5 @@
-WIDTH = 800
-HEIGHT = 650
+WIDTH = 1366
+HEIGHT = 768
 
 SHAPE_SPACESHIP = {
     "width": 24, #35
@@ -35,16 +35,22 @@ FPS = 60
 
 
 NODES_PATH_IMG = {
-    0: ['assets//images//characters//Nodes//Urinas.png', 80, 80],
-    1: ['assets//images//characters//Nodes//Neptunee.png', 80, 80],
-    2: ['assets//images//characters//Nodes//Earth.png', 70, 70],
-    3: ['assets//images//characters//Nodes//Venus.png', 65, 65],
-    4: ['assets//images//characters//Nodes//Jupiter.png', 75, 75],
-    5: ['assets//images//characters//Nodes//Mercury.png', 55, 55],
-    6: ['assets//images//characters//Nodes//Mars.png', 60, 60],
-    7: ['assets//images//characters//Nodes//Saturn.png', 90, 90],
-    8: ['assets//images//characters//Nodes//Sun.png', 85, 85],
-    9: ['assets//images//characters//Nodes//Asteroid1.png', 60, 60],
-    10: ['assets//images//characters//Nodes//Asteroid1.png', 40, 40],
+    0: ['assets//images//characters//Nodes//Urinas.png', 100, 100],
+    1: ['assets//images//characters//Nodes//Neptunee.png', 100, 100],
+    2: ['assets//images//characters//Nodes//Earth.png', 90, 90],
+    3: ['assets//images//characters//Nodes//Venus.png', 85, 85],
+    4: ['assets//images//characters//Nodes//Jupiter.png', 95, 95],
+    5: ['assets//images//characters//Nodes//Mercury.png', 75, 75],
+    6: ['assets//images//characters//Nodes//Mars.png', 80, 80],
+    7: ['assets//images//characters//Nodes//Saturn.png', 110, 110],
+    8: ['assets//images//characters//Nodes//space-satellite-pixelated-satellite_26136785.png', 120, 120],
+    9: ['assets//images//characters//Nodes//space-satellite-pixelated-satellite_26136785.png', 100, 100],
+    10: ['assets//images//characters//Nodes//space-satellite-pixelated-satellite_26136785.png', 100, 100],
+    11: ['assets//images//characters//Nodes//space-satellite-pixelated-satellite_26136785.png', 110, 110],
+    12: ['assets//images//characters//Nodes//space-satellite-pixelated-satellite_26136785.png', 100, 100],
+    13: ['assets//images//characters//Nodes//space-satellite-pixelated-satellite_26136785.png', 100, 100],
+    14: ['assets//images//characters//Nodes//Sun.png', 105, 105],
+    15: ['assets//images//characters//Nodes//Asteroid1.png', 70, 70],
+    16: ['assets//images//characters//Nodes//Asteroid1.png', 50, 50],
 }
 
